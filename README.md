@@ -1,2 +1,1 @@
-# nmu-marketplace
-App Description 
+# NMU Marketplace\n\nStudent marketplace for NMU with EFT tracking. Admin: Xabiso Mpofu. See docs for setup instructions.\n
